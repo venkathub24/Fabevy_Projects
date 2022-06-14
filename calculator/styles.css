@@ -1,0 +1,11 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 180px;
+
+}
+
+.flex input{
+    width: 60px;
+    height: 60px;
+}
